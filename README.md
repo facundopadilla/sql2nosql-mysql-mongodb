@@ -1,4 +1,4 @@
-# SQL2NoSQL 
+# SQL2NoSQL Example with MySQL and MongoDB
 <p align="center">
     <img src="https://i.ibb.co/VDNZpvZ/logo-transparent.png" width="450">
 </p>
