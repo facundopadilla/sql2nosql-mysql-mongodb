@@ -1,7 +1,17 @@
-# SQL2NoSQL - Example
+# SQL2NoSQL 
+<p align="center">
+    <img src="https://i.ibb.co/VDNZpvZ/logo-transparent.png" width="450">
+</p>
+<p align="center" style="font-size:200px;">
+    Migrate data from SQL to NoSQL easily
+</p>
+<div align="center" style="display:inline;">
+<img src="https://img.shields.io/badge/python-%203.6%20|%203.7%20|%203.8%20|%203.9%20-blue" />
+<img src="https://img.shields.io/badge/black-v21.6b0-blue" />
+<img src="https://img.shields.io/github/downloads/facundopadilla/sql2nosql/total?style=plastic" />
+<img src="https://img.shields.io/pypi/v/sql2nosql" />
+</div>
 
-![](https://i.ibb.co/yP64MvT/logo-small.png)
-####  Migrate data from SQL to NoSQL easily
 
 ## SQL2NoSQL Installation
 ```python
