@@ -34,7 +34,7 @@ To start, let's install the requirements for Python (I recommend using virtual e
 ```python
 pip install -r requirements.txt
 ```
-Next, if we need to test the migration (this is exactly why we decided to use Docker), we can execute the following command (if you want to edit the environment variables, you can do it from the 'docker-environment.yml' file)
+Next, if we need to test the migration (this is exactly why we decided to use Docker), we can execute the following command (if you want to edit the environment variables, you can do it from the 'docker-environment.env' file)
 
 ```
 docker-compose --env-file ./docker-environment.env up --no-build -d
