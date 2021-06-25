@@ -130,3 +130,8 @@ db.<collection_name>.find().pretty()
 ```
 
 Enjoy! :)
+
+
+
+https://user-images.githubusercontent.com/64610246/123432085-60c5ee00-d5a0-11eb-9f4c-e03d015b35e0.mp4
+
